@@ -1,0 +1,192 @@
+@charset "UTF-8";
+
+h1{
+text-align:center;
+font-family:arial;
+font-size:70px;  
+font-weight:bold;   
+text-shadow: 80px 80px 80px 80px white;
+
+
+}
+body{background-color:grey;
+border:5px solid black;
+width:auto;
+padding:auto;
+}
+
+header#cabeca{
+	
+	
+	
+}
+header#cabeca p{  
+
+
+margin-top:-20px;
+text-shadow: 80px 80px 80px 80px white;
+padding:40px;
+margin:90px;
+margin-bottom:10px;
+font-size:20px;
+font-family:arial;
+	text-indent:80px;
+	font-weight:bold;
+		background-color:white;
+}
+
+pre{  
+float:right;
+
+font-size:40px;
+font-family:arial;
+	text-align:right;
+	text-indent:100px;
+	font-weight:bold;
+	text-shadow: 80px 80px 80px 80px white;	
+}
+
+
+img#m{margin-left:840px;
+     margin-top:-50px;
+     padding:40px;
+     background-color:white;
+}
+
+
+nav#menu li{
+display:inline-block;
+background-color:white;
+font-family:arial;
+font-size:25px;
+}
+img#log{
+	
+	margin-left:350px;
+	
+}
+
+
+
+
+nav#menu ul{
+	text-indent: 120px;
+	
+	margin-left:150px;
+	
+}
+
+nav#menu li:hover{background-color:blue}
+div#interface{
+display:block;
+background-image:url("reforma2.jpg");
+position:relative;
+width:1300px;
+ margin: auto ;
+ border: 2px black;
+position:auto;
+}
+
+
+div#interface2{
+	background-color:yellow;
+	
+}
+nav#menu2 ul { display:block;}
+nav#menu2 li{
+	display:inline-block;
+	background-color:blue;
+	padding:15px 15px;
+	
+	
+}
+
+nav#menu2 li:hover {background-color:blue}
+
+div#principal body{
+	background-image:url("imagem2.jpg");
+	
+	
+}
+
+ol#lista{
+	border:2px solid black;
+	margin-top:-30px;
+	width:250px;
+	display:block;
+	display:inline-block;
+	list-style:none;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	background-color:white;
+}
+
+div#contato{
+	text-align:center;
+	font-family:arial;
+	font-size:30px;
+	background-color:white;
+	padding:70px;
+	margin: 90px;
+	
+}
+
+
+section#meio{
+	top:40px;
+	display: block;
+	float:left;
+	width:900px;
+	
+	
+}
+
+aside#lateral{
+	display:block;
+	float:rigth;
+
+	
+	
+	
+}
+video#video{
+	background-color:black;
+	width:280px;
+height:300px;
+	margin-top:170px;
+	border:20px black solid;
+	float:right;
+}
+
+ 
+pre#log{
+	text-align:center;
+	float:center;
+}
+
+figure{
+	text-indent:300px;
+	top:500px;
+	
+}
+figure#img{
+	margin-top:600px;
+	float:rigth;
+	top:300px;
+}
+footer#rodape{
+	border-top:5px black solid;
+display:block;
+	background-color:white;
+	clear:both;
+	margin-top:40px;
+	bottom:40px;
+	height:80px;
+}
+footer#rodape p {
+	text-align:center;
+	top:50px;
+	margin-top:30px;
+	
+}

@@ -1,0 +1,264 @@
+@ charset "UTF-8";
+
+
+
+
+body{
+	
+	position:absolute;
+}
+
+div#f {
+	
+	
+	
+width:1400px	;
+padding:auto;
+margin:auto;
+
+	
+
+}
+	
+	
+nav#menu2 ol{
+	
+	margin-left:300px;
+	
+	
+}
+
+nav#menu2 li{
+	
+	font-size:50pt;
+	padding:20px;
+	display:inline-block;
+	
+	
+}
+
+
+
+
+
+ul#album2 li{
+	
+width:380px;
+	height:380px;
+	float:left;
+list-style:none;
+padding:10px;
+border: 4px solid black;
+-webkit-transition: all 1s ease-in;
+
+}
+
+ul#album2 li:hover{
+	
+	-webkit-transform:scale(1,1);
+		
+}
+
+
+ ul#album2 li#foto1{
+background:url('Nova pasta/f1.jpg' )no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto1:hover{
+	background-position:auto;
+	background-size:400px 400px ;
+	margin:10px;
+	
+}
+
+ul#album2 li#foto2{
+background:url('Nova pasta/f2.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto2:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+
+ul#album2 li#foto3{
+background:url('Nova pasta/f3.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto3:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+ul#album2 li#foto4{
+background:url('Nova pasta/h1.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto4:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+
+
+ul#album2 li#foto5{
+background:url('Nova pasta/h2.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto5:hover{
+	background-position:0% 0%;
+	background-size:400px 400px;
+	
+}
+ul#album2 li#foto6{
+background:url('Nova pasta/h3.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto6:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+ul#album2 li#foto7{
+background:url('Nova pasta/i1.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto7:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+ul#album2 li#foto8{
+background:url('Nova pasta/i2.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto8:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+ul#album2 li#foto9{
+background:url('Nova pasta/i3.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto9:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+ul#album2 li#foto10{
+background:url('Nova pasta/j1.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto10:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+
+
+ul#album2 li#foto11{
+background:url('Nova pasta/j2.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto11:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+
+
+ul#album2 li#foto12{
+background:url('Nova pasta/j3.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto12:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+
+ul#album2 li#foto13{
+background:url('Nova pasta/l1.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto13:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+
+
+ul#album2 li#foto14{
+background:url('Nova pasta/l2.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto14:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+
+
+
+ul#album2 li#foto15{
+background:url('Nova pasta/l3.jpg')no-repeat;
+background-position:50% 50%;
+	background-size:250px 250px;
+}
+
+ul#album2 li#foto15:hover{
+	background-position:auto;
+	background-size:400px 400px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+

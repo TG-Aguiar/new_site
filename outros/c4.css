@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+body { background-color:white;}
+
+
+h1{
+	text-align:center;
+font-family: arial;
+  font-size: 80px;
+  color: black;
+  
+}
+
+h2{
+	
+font-family: arial;
+  font-size: 60px;
+  color: black;
+  text-indent: 250;
+  
+}
+
+p{ text-align: justify;
+   font-family: arial;
+      text-indent:  80px;
+	  font-weight:bold;
+	  color: black;
+    }

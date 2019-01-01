@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html lang="pt-br" >
+
+<head>
+<meta charset="UTF-8"/>
+
+<style>
+
+div#c{
+
+width:200px;
+height:200px;
+background-color:black;
+}
+
+
+</style>
+
+
+
+<script>
+
+function muda(){
+
+var a=document.getElementById("b");
+
+var r=Math.floor(Math.random()*200 );
+var g=Math.floor(Math.random()*200 );
+var b=Math.floor(Math.random()*200 );
+a.style.backgroundColor="rgb("+r+","+g+","+b+")";
+
+}
+
+var tmp= setInterval(muda,2000);
+
+
+</script>
+
+<script>
+
+function anima(){
+
+var a=document.getElementById("c");
+
+a.style.position="relative";
+a.style.left=Math.random()*200+"px";
+a.style.top=Math.random()*200+"px";
+a.style.right=Math.random()*200+"px";
+a.style.bottom=Math.random()*200+"px";
+
+}
+
+var tmp= setInterval(anima,200);
+
+
+</script>
+
+
+</head>
+
+
+
+<body id="b">
+
+<div >
+
+<center><img id="f" src="logo.jpg"  width="300"  height="250" /> </center>
+
+</div>
+
+
+<div id="c"> 
+
+</div>
+
+</body>
+
+</html>

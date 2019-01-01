@@ -1,0 +1,89 @@
+@ charset "UTF-8";
+
+
+	
+	
+
+body{background-color:red;}
+
+ul#album {
+	display:block;
+}
+ul#album li{
+	width:500px;
+	height:500px;
+	display:inline-block;
+	list-style:none;
+	float:left;
+	padding:60px;
+	
+	
+}
+ul#album li:hover {
+	-webkit-transform:scale(1,1);
+	
+	
+	
+}
+
+ul#album li#foto1{
+	background:url('f1.jpg')no-repeat;
+	background-position:50% 50%;
+background-size:300px 300px;
+	
+	
+}
+
+ul#album li#foto1:hover{
+	
+	background-position:50px 50px;
+background-size:500px 500px;
+	
+	
+}
+
+ul#album li#foto2{
+	
+	background-position:50% 50%;
+	
+	
+	
+}
+
+ul#album li#foto2:hover{
+	
+	background-position:50% 50%;
+	background-size:500px 300px;;
+	
+	
+}
+ul#album li#foto3{
+	
+	background-position:0% 0%;
+	background-size:;
+	
+	
+}
+
+ul#album li#foto3:hover{
+	
+	background-position:auto;
+	background-size:500px 300px;;
+	
+	
+}
+ul#album li#foto4{
+	
+	background-position:auto;
+	background-size:auto;
+	
+	
+}
+
+ul#album li#foto4:hover{
+	
+	background-position:auto;
+	background-size:500px 300px;;
+	
+	
+}

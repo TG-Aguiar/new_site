@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="pt-br" >
+
+<head>
+<meta charset="UTF-8"/>
+
+
+</head>
+
+
+
+<body >
+
+<div id="c">
+
+<img id="i"  name="i" width="280" height="200">
+
+
+</div>
+
+<script>
+
+var i=0;
+var imag=[];
+
+imag[0]='m.jpg ';
+imag[1]='logo2.jpg';
+imag[2]='p1.jpg';
+
+function a(){
+if(i<3){
+document.i.src=imag[i];
+
+i++;
+}
+
+else{ i=0; }
+}
+
+var t=setInterval(a,1000);
+
+
+</script>
+
+</body>
+
+</html>

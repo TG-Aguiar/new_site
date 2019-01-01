@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+div#principal{
+	
+	border: black solid;
+	width:1200px;
+	position:relative;
+	padding:auto;
+	margin:auto;
+	
+	
+}
+
+img#logo{
+	margin-left:410px;
+	padding:20px;
+	
+}
+
+img#logo2{
+	
+margin-right:330px;	
+margin-top:-120px;	
+float:right;	
+}
+
+
+
+
+img#lista{
+	
+margin-bottom:50px;
+}
+
+
+header#cabecalho{
+	width:auto;
+	background-image:url("reforma2.jpg");
+}
+
+
+
+
+p{
+	
+	margin-top:80px;
+	padding-top:20px;
+	background-color:white;
+    padding-left:20px;
+	font-size:15pt;
+	font-family:Arial;
+    text-align:justify;
+	text-indent:120px;
+	padding-bottom:30px;
+}
+
+section#meio{
+	background-image:url("reforma2.jpg");
+	width:auto;
+	
+}
+
+aside#lateral{
+	
+
+}
+
+footer#rodape{
+	
+	
+	padding:10px;
+	
+	border:black solid;
+	clear:both;
+	
+}
+nav#menu ul {
+	top:20px;
+    text-align:center;
+	list-style:none;
+	
+
+}
+
+nav#menu li{
+	 display:inline-block;
+     padding:10px;
+     margin:30px;	 
+     background-color:white;
+
+
+}
+
+video#video{
+	background-color:white;
+	top:-150px;
+	float:right;
+	width:340px;
+	height:400px;
+	margin:10px;
+	border:white solid 20px;
+}

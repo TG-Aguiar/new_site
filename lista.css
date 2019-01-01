@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+div#interface {background-image:url("reforma2.jpg");}
+
+      h1{ text-shadow: 60px 60px 60px 60px white;
+    text-align:center;
+	
+    font-family: arial;
+     font-size:70px;
+	 font-weight:bold;
+}
+ 
+   p{
+   text-align:facility;
+  text-indent: 100px;
+   font-family: arial;
+   text-weight: bold;
+  font-size: 30px;
+  text-shadow:200px 200px 200px 200px white;
+  
+ 
+  
+  
+}
+
+
+
+
+nav# menu{
+	
+}
+
+
+nav#menu li{  
+display:inline-block;
+
+font-family: arial;
+font-size: 20px;
+font-weight: bold;
+padding:20px;
+
+
+}
+
+nav#menu li:hover{background-color:blue;}
+
+
+	
+	
+
+
+
+
+ 
+
